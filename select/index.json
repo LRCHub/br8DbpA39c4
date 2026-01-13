@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "おどりゃんせ",
+  "base_artist": "ユリイ・カノン",
+  "createdAt": "2026-01-13T10:32:17.081064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おどりゃんせ",
+      "artist": "ユリイ・カノン",
+      "has_synced": true,
+      "path": "select/01_おどりゃんせ_ユリイ・カノン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おどりゃんせ (retake)",
+      "artist": "ユリイ・カノン",
+      "has_synced": true,
+      "path": "select/02_おどりゃんせ_(retake)_ユリイ・カノン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おどりゃんせ",
+      "artist": "E ve",
+      "has_synced": true,
+      "path": "select/03_おどりゃんせ_E_ve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おどりゃんせ",
+      "artist": "Yurry Canon",
+      "has_synced": true,
+      "path": "select/04_おどりゃんせ_Yurry_Canon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おどりゃんせ",
+      "artist": "ユリイ・カノン",
+      "has_synced": true,
+      "path": "select/05_おどりゃんせ_ユリイ・カノン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おどりゃんせ",
+      "artist": "Eve × Sou",
+      "has_synced": true,
+      "path": "select/06_おどりゃんせ_Eve_×_Sou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おどりゃんせ",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_おどりゃんせ_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おどりゃんせ",
+      "artist": "ユリイ・カノン",
+      "has_synced": false,
+      "path": "select/pl_01_おどりゃんせ_ユリイ・カノン.txt"
+    }
+  ]
+}
